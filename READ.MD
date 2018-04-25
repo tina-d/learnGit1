@@ -1,1 +1,1 @@
-learnGit1 is the practice .git~
+Create the 1st branch DEV to practice~
