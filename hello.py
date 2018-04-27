@@ -1,2 +1,2 @@
 #! /usr/bin/env
-print "happened conflicts"
+print "happened conflicts~"
